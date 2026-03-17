@@ -51,7 +51,7 @@ The project follows a decoupled, event-driven architecture:
     ```
 
 3.  **Access the Dashboard**:
-    Open your browser and go to `http://localhost:8501`.
+    Open your browser and go to `http://localhost:8000/`.
 
 ## 📜 Project Structure
 ```text

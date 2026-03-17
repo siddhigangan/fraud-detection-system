@@ -57,4 +57,4 @@ services:
         - "8000:8501"  # Access via http://localhost:8000
       environment:
         - MONGO_URI=mongodb://mongodb:27017
-      restart: always
+      restart: always 
